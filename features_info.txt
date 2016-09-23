@@ -3,7 +3,7 @@ Feature Selection
 
 The features selected for this database include only features related to the mean and std of the original data set. These original mean and std have been averaged according to subject and labeled activity type.
 
-The complete list of variables are as follows:
+The final list of variables are listed below. A complete list of the original features can be found in the features.txt file.
 
 
 "x"
